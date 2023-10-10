@@ -1,2 +1,4 @@
 # firsttrail
 trail
+print("hello")
+
